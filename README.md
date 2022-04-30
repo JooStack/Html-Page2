@@ -1,3 +1,3 @@
-# Html-Page2
+# Stan Lee Web page
 
-Lets look https://joostack.github.io/Html-Page2/
+# Lets look https://joostack.github.io/Html-Page2/
